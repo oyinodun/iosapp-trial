@@ -4,7 +4,7 @@
 This is an ios app that takes input from the user. You can also change the view mode by clicking on "lights".
 
 ### App Walk-though
-<img src="http://g.recordit.co/Y4N8z5LNB3.gif" width=200><br>
+<img src="http://g.recordit.co/W4J218vfzy.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
